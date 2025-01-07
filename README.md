@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in VBScript related to the `IsEmpty` function and variant type handling. The `IsEmpty` function doesn't consistently identify empty variants, leading to unexpected results when used within functions. The bug.vbs file showcases the issue, while bugSolution.vbs offers a corrected version.
